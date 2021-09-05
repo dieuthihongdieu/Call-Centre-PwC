@@ -1,7 +1,7 @@
 # Call-Centre-PwC
 This project is  Call Centre Manager at Phone are looking for transparency and insight in the data to have an accurate overview 
 
-I find out business request and analyze following**User Story:**
+I find out business request and analyze following **User Story:**
 
 ***1. As a (role):*** 		
 
